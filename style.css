@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 40px;
+  background: #1e293b;
+}
+
+section {
+  margin: 30px;
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background: #334155;
+  padding: 20px;
+  border-radius: 10px;
+}
